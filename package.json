@@ -1,0 +1,24 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Test your angular and javscript skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "jasmine-core": "^2.5.2",
+    "mongojs": "^2.4.0"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.6.1",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.4.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-phantomjs-launcher": "^1.0.2"
+  }
+}
