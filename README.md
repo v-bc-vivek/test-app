@@ -9,17 +9,17 @@ use
  #to run testcases 
  #karma start
 
-#to open app use 
+ #to open app use 
 
-#http://localhost:8000/
+ #http://localhost:8000/
 
-#Test are written in app.spec.js
-#sass file are there in sass folder
+ #Test are written in app.spec.js
+ #sass file are there in sass folder
 
-#main angular file is app.js
+ #main angular file is app.js
 
-#all angular code is in public folder 
-#all node code in server.js file
+ #all angular code is in public folder 
+ #all node code in server.js file
 
 
 
